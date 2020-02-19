@@ -1,0 +1,2 @@
+# MyProjectDir
+My project directory
